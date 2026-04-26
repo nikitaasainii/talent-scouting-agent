@@ -1,0 +1,20 @@
+# Environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+*.db
+.chroma/
+data/chroma_db/
+data/candidates.json
+
+# Mac
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
