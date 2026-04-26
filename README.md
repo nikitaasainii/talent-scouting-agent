@@ -249,17 +249,6 @@ Every score is accompanied by bullet-point reasons. The recruiter sees *why* a c
 
 ---
 
-## ✦ Roadmap
-
-- [ ] Real async outreach via email/LinkedIn API
-- [ ] Candidate deduplication across sources
-- [ ] Persistent run history and candidate database
-- [ ] Export shortlist to CSV / ATS integration
-- [ ] Confidence intervals on match scores
-- [ ] Support for non-technical roles (design, product, ops)
-
----
-
 ## ✦ Built With
 
 - [Groq](https://groq.com) — Fastest LLM inference
